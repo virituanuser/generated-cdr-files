@@ -1,0 +1,4 @@
+id,flag,telephonenumber,basepackage,productname,productid,subscriptiondate,createddate,price,promotion,category,testfield1
+12,,${telephonenumber},Base Pack,Pro1,PROD001,27102021151114,27102021151114,300,,,
+13,,${telephonenumber},Base Pack,Pro1,PROD001,27102021151114,27102021151114,300,,,
+14,,${telephonenumber},Base Pack,Pro1,PROD001,27102021151114,27102021151114,300,,,
